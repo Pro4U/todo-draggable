@@ -6,14 +6,20 @@ li{
     list-style:decimal;
 }
 
+#btnSubmit{
+    cursor: pointer;
+}
+
 #editBtn{
     background-color: rgb(222, 222, 222);
     margin-left: 16vw;
     margin-bottom: 1vw;
+    cursor: pointer;
 }
 
 #deleteBtn {
     background-color: rgb(222, 222, 222);
     margin-left: 16vw;
-    margin-bottom: 1vw
+    margin-bottom: 1vw;
+    cursor: pointer;
 }
