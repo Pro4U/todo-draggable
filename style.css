@@ -10,16 +10,20 @@ li{
     cursor: pointer;
 }
 
-#editBtn{
+.editBtn{
     background-color: rgb(222, 222, 222);
     margin-left: 16vw;
     margin-bottom: 1vw;
     cursor: pointer;
 }
 
-#deleteBtn {
+.deleteBtn {
     background-color: rgb(222, 222, 222);
     margin-left: 16vw;
     margin-bottom: 1vw;
     cursor: pointer;
+}
+
+.drag{
+    border: 1px solid black;
 }
